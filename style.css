@@ -55,7 +55,7 @@ header .navbar ul li a{
 }
 
 .ticket-box{
-    box-shadow: 5px 5px #707070 ;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
     padding: 10px;
     border: 1px solid #707070;
     border-radius: 10px;
@@ -114,7 +114,8 @@ header .navbar ul li a{
     color: #fff;
     font-size: large;
     border: 1px solid #707070 ; 
-    box-shadow: 5px 5px #d1d5d7;   
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+     
 }
 
 .flight li{
@@ -125,8 +126,8 @@ header .navbar ul li a{
 
 .flight{
     padding-left: 20px;
-    padding-top: 60px;
-    padding-bottom: 370px;
+    padding-top: 200px;
+    padding-bottom: 220px;
 }
 
 .heading{
@@ -200,6 +201,7 @@ header .navbar ul li a{
     transform: rotate(300deg);
 }
 
+
 .border3{
     border: 1px solid #CCC479;
     background-color: #CCC479;
@@ -223,6 +225,7 @@ header .navbar ul li a{
     margin-left: 140px;
     padding: 5px;
 }
+
 
 .border3 ul li .num5 img{
     position: absolute;
